@@ -11,8 +11,9 @@ This repository contains thematic maps developed in Python for cartographic repr
 - Apply Python tools for thematic cartographic production
   
 # Data
-- Official shapefile files from public geographic databases, such as Instituto Brasileiro de Geografia e Estatística
-- Environmental thematic datasets, such as biomes and soil types
+- Territorial boundaries from public geographic databases, such as IBGE
+- Environmental thematic datasets, such as biomes and soil types from IBGE
+- Greenhouse gas emissions data by economic sector from SEEG
 
 # Tools and Libraries
 - Python
@@ -23,3 +24,4 @@ This repository contains thematic maps developed in Python for cartographic repr
 # Outputs
 - Thematic map of Brazilian biomes
 - Thematic map of soil types in Minas Gerais
+- Greenhouse gas emissions by sector in São Paulo and Mato Grosso
