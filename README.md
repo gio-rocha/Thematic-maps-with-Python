@@ -24,4 +24,5 @@ This repository contains thematic maps developed in Python for cartographic repr
 # Outputs
 - Thematic map of Brazilian biomes
 - Thematic map of soil types in Minas Gerais
-- Greenhouse gas emissions by sector in São Paulo and Mato Grosso
+- Thematic figure of greenhouse gas emissions by sector in São Paulo and Mato Grosso
+- Thematic figure showing the temporal evolution of greenhouse gas emissions in Guapimirim
