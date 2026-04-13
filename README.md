@@ -61,6 +61,13 @@ This repository contains thematic maps developed in Python for cartographic repr
 
 # Outputs
 - Thematic map of Brazilian biomes
+  <img width="4500" height="4350" alt="Biomas_Br" src="https://github.com/user-attachments/assets/e8c6f1b2-02ec-4997-b5b0-e0bffc375f24" />
+
 - Thematic map of soil types in Minas Gerais
+  <img width="4880" height="3400" alt="Solos-Mapa-MG" src="https://github.com/user-attachments/assets/e44a2ff5-542f-4e99-9cf4-624c5475b4b0" />
+  
 - Thematic figure of greenhouse gas emissions by sector in São Paulo and Mato Grosso
+  <img width="4280" height="2679" alt="GEEs_SP_MT" src="https://github.com/user-attachments/assets/6bd65f0c-98b4-43e6-86bf-d86115fd94ab" />
+
 - Thematic figure showing the temporal evolution of greenhouse gas emissions in Guapimirim
+  <img width="5360" height="3479" alt="Mapa_GEEs_Guapi" src="https://github.com/user-attachments/assets/e3c99b1b-dff5-48d6-8877-f1e54de52f8c" />
